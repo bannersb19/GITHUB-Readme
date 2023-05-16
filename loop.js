@@ -1,8 +1,3 @@
-// GIF Loop
-// Daniel Shiffman
-// https://thecodingtrain.com/CodingChallenges/135-gif-loop.html
-// https://youtu.be/nBKwCCtWlUg
-
 const totalFrames = 120;
 let counter = 0;
 const record = false;
