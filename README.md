@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👾 Sujash Banerjee </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner](https://github.com/bannersb19/GITHUB-Readme/assets/86323992/eb2af107-a833-4618-a493-72c00f334a6d)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Motivated CSIT Engineering student, currently enrolled and seeking an opportunity to apply skills in Web Development, Cyber Security and other computer applications to meet challenging work assignments and support the management team. Excellent at communicating, programming, and developing. Keen attention to details and focused on meeting deadlines.
